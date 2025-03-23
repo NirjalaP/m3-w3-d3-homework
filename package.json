@@ -1,0 +1,19 @@
+{
+  "name": "m3-w3-d3-homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NirjalaP/m3-w3-d3-homework.git"
+  },
+  "author": "Nirjala Prajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NirjalaP/m3-w3-d3-homework/issues"
+  },
+  "homepage": "https://github.com/NirjalaP/m3-w3-d3-homework#readme",
+  "description": ""
+}
